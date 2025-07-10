@@ -2,9 +2,11 @@
 Este é um projeto criado durante o Next Level Week 20 (NLW #20) da Rocketseat, com o objetivo de desenvolver um aplicativo moderno e funcional do zero, unindo design, tecnologia e inteligência artificial.
 
 🧠 Sobre o Projeto
+
 O projeto é um app interativo voltado para gamers, com foco nos jogos League of Legends (LoL) e Valorant. Ele utiliza integração com a IA Gemini, por meio de prompts personalizados e agentes inteligentes, para fornecer respostas úteis, dicas e estratégias de jogo para quem deseja melhorar seu desempenho ou tirar dúvidas rápidas sobre mecânicas, personagens, mapas e mais.
 
 💡 Exemplos de perguntas que o app responde:
+
 “Qual a melhor estratégia para subir de elo no LoL?”
 
 “Como usar bem o agente Sova no Valorant?”
