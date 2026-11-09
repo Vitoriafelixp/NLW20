@@ -1,17 +1,31 @@
 # NLW20
-Este é um projeto criado durante o Next Level Week 20 (NLW #20) da Rocketseat, com o objetivo de desenvolver um aplicativo moderno e funcional do zero, unindo design, tecnologia e inteligência artificial.
+# Assistente para Gamers com IA
 
-🧠 Sobre o Projeto
+App interativo para jogadores de **League of Legends** e **Valorant**, com respostas, dicas e estratégias geradas pela IA **Gemini**. Projeto criado durante o **Next Level Week 20 (NLW #20)** da Rocketseat.
 
-O projeto é um app interativo voltado para gamers, com foco nos jogos League of Legends (LoL) e Valorant. Ele utiliza integração com a IA Gemini, por meio de prompts personalizados e agentes inteligentes, para fornecer respostas úteis, dicas e estratégias de jogo para quem deseja melhorar seu desempenho ou tirar dúvidas rápidas sobre mecânicas, personagens, mapas e mais.
+## Sobre o projeto
 
-💡 Exemplos de perguntas que o app responde:
+O objetivo do NLW #20 era desenvolver um aplicativo moderno e funcional do zero, unindo design, tecnologia e inteligência artificial.
 
-“Qual a melhor estratégia para subir de elo no LoL?”
+O app usa a integração com o Gemini por meio de prompts personalizados e agentes inteligentes. Ele ajuda quem quer melhorar o desempenho no jogo ou tirar dúvidas rápidas sobre mecânicas, personagens, mapas e mais.
 
-“Como usar bem o agente Sova no Valorant?”
+## Exemplos de perguntas
 
-“Qual build funciona melhor para o campeão Yasuo?”
+- Qual a melhor estratégia para subir de elo no LoL?
+- Como usar bem o agente Sova no Valorant?
+- Qual build funciona melhor para o campeão Yasuo?
 
-Estou no início da minha jornada na programação e este projeto representa meu primeiro contato com JavaScript, além de aplicar meus conhecimentos em HTML e CSS. Com esse app, aprendi sobre integração com IA, estruturação de projetos web e como a tecnologia pode transformar experiências no universo gamer.
+## Tecnologias utilizadas
 
+- HTML
+- CSS
+- JavaScript
+- Gemini (IA)
+
+## Aprendizados
+
+Este projeto marca o início da minha jornada na programação e foi meu primeiro contato com JavaScript, aliado ao que eu já conhecia de HTML e CSS. Com ele, aprendi:
+
+- Como integrar uma IA a uma aplicação web
+- Como estruturar um projeto web
+- Como a tecnologia pode transformar a experiência no universo gamer
